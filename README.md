@@ -31,3 +31,6 @@ What I needed was to sort the photos into dated folders as below.
 So, I took the example and after a bit of trial and error, I came up with a working solution. If you compare the example above and my finished script, you should be able to develop your own sorting script. Or you can use it as is.
 
 >There's also bash script that will do the same thing as the Hazel script, but requires a bit more setup.
+
+### Here's the setup screen from Hazel
+![image](Hazel-Sort-1)
