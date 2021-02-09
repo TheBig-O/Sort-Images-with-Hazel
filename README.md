@@ -33,4 +33,4 @@ So, I took the example and after a bit of trial and error, I came up with a work
 >There's also bash script that will do the same thing as the Hazel script, but requires a bit more setup.
 
 ### Here's the setup screen from Hazel
-![image](Hazel-Sort-1)
+![image](Hazel-Sort-1.png)
