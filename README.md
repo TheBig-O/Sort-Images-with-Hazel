@@ -4,6 +4,7 @@
  ### The sample script from the Hazel forum uses ExifTool to rename photos.
 
 ```
+# Be aware. This is the example and only renames files. Doesn't do what the Bash of Hazel scripts will do.
 exiftool -P -d '%Y%m%d' \
    '-filename<${FileModifyDate;}.%e' \
         '-filename<${GPSDateTime;}.%e' \
